@@ -1,0 +1,13 @@
+package com.example.CrechApp;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CrechAppApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CrechAppApplication.class, args);
+	}
+
+}
